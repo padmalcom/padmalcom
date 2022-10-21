@@ -30,5 +30,5 @@ Feel free to message me any time 💬
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="450"></a>
-  <a href="#"><img src="[https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="450"></a>
 </p>
