@@ -12,11 +12,11 @@
   </a>
   <a href="https://twitter.com/padmalcom">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.patreon.com/padmalcom">
-    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=flat" alt="Patreon Badge" />
-  </a>
+  </a> 
 </div>
+<a href="https://www.patreon.com/padmalcom">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dpadmalcom%26type%3Dpatrons&style=flat" alt="Patreon Badge" />
+  </a>
 <img src="https://komarev.com/ghpvc/?username=padmalcom&style=flat-square&color=blue" alt=""/>
   
 </div>
