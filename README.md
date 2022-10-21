@@ -34,6 +34,6 @@ Feel free to message me any time 💬
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="418"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="419"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmalcom&layout=compact&theme=dark" width="350"></a>
 </p>
