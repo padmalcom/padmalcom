@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://stonedrum.de/wp-content/uploads/2018/11/cropped-StoneDrumTitle.png" width="200"/>
+  <a href="https://stonedrum.de/">
+    <img src="https://stonedrum.de/wp-content/uploads/2018/11/cropped-StoneDrumTitle.png" width="200"/>
+  </a>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dr-jonas-freiknecht-982b82232/">
@@ -10,6 +12,9 @@
   </a>
   <a href="https://twitter.com/padmalcom">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.patreon.com/padmalcom">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=flat" alt="Patreon Badge" />
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=padmalcom&style=flat-square&color=blue" alt=""/>
