@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://stonedrum.de/wp-content/uploads/2018/11/cropped-StoneDrumTitle.png" width="100"/>
+  <img src="https://stonedrum.de/wp-content/uploads/2018/11/cropped-StoneDrumTitle.png" width="200"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dr-jonas-freiknecht-982b82232/">
@@ -29,6 +29,6 @@ Feel free to message me any time 💬
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="450"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmalcom&layout=compact&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmalcom&layout=compact&theme=dark" width="350"></a>
 </p>
