@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://stonedrum.de/wp-content/uploads/2018/11/cropped-StoneDrumTitle.png" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dr-jonas-freiknecht-982b82232/">
@@ -16,26 +16,19 @@
   
 </div>
 
-### Hi there 👋
+### Hi my name is Jonas and I professionally fix my relatives' printers and wireless lans on christmas 🎄
+
+Besides that, I'm into:
+
+- 🧠 artificial intelligence and machine learning
+- 🎮 game development
+- 🤖 robotics
+- 🏫 teaching on udemy and in [my books](https://www.amazon.de/Jonas-Freiknecht/e/B009P0H6SA)
+
+Feel free to message me any time 💬
 
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="450"></a>
+  <a href="#"><img src="[https://github-readme-stats.vercel.app/api?username=padmalcom&show_icons=true&count_private=false&theme=dark" width="450"></a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padmalcom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**padmalcom/padmalcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
